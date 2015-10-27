@@ -1,10 +1,8 @@
 # Developer's System
---------------------
 
 A developer system provisioned using vagrant with settings for virtualbox, deploys with ArtWeb.
 
 ## Install Instructions
------------------------
 
 ### Install pre-requisites:
 
