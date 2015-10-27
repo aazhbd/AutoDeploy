@@ -23,15 +23,15 @@ It should open the default page for ArtWeb framework for PHP5. You can work with
 
 - Once the system is up and running and finished provisioning itself, to work with the system itself: ``` vagrant ssh ```
 
+- To stop the system, enter: ``` vagrant halt ```
+Or enter shutdown command with sudo from inside the system.
+
 - To reprovision the system, enter:
 ```
 vagrant provision
 or
 vagrant up --provision
 ```
-
-- To stop the system, enter: ``` vagrant halt ```
-Or enter shutdown command with sudo from inside the system.
 
 
 ### License
