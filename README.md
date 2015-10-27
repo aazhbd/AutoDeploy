@@ -8,7 +8,7 @@ A developer system provisioned using vagrant with settings for virtualbox, deplo
 
 ### Install pre-requisites:
 
-1. Install VirtualBox. It also works with WMWare, Hyper-V etc.
+1. Install VirtualBox. It also works with VMWare, Hyper-V etc.
 2. Install Git with commandline tools.
 3. Install Vagrant.
 
