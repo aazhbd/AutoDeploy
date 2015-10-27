@@ -32,7 +32,7 @@ vagrant provision
 or
 vagrant up --provision
 ```
-
+Reprovisioning the system will upgrade the system packages and try to change in any existing ArtWeb directory.
 
 ### License
 -----------
