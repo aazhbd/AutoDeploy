@@ -36,6 +36,9 @@ fi
 
 if ! mysql -u root -e 'use dbname'; then
 	echo "create database dbname;" | mysql -u root
+	echo "********** Database created **********"
 fi
+
+service apache2 restart
 
 cat /var/www/html/logo.txt
