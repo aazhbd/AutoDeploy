@@ -1,6 +1,6 @@
 # Developer's System
 
-A developer system provisioned using vagrant with settings for virtualbox, deploys with ArtWeb.
+A developer system provisioned using vagrant with settings for virtualbox, deploys with ArtWeb. A Linux system with Vivid Vervet and it automatically provisions the system with Apache2, PHP5, MySQL and MySQL related PHP packages, also includes Python and related tools.
 
 ### Install Instructions
 
