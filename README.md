@@ -2,17 +2,17 @@
 
 A developer system provisioned using vagrant with settings for virtualbox, deploys with ArtWeb.
 
-# Install Instructions
+### Install Instructions
 
-### Install prerequisites:
---------------------------
+#### Install prerequisites:
+---------------------------
 
 1. Install VirtualBox. It also works with VMWare, Hyper-V etc.
 2. Install Git with commandline tools.
 3. Install Vagrant.
 
-### Deploy System:
-------------------
+#### Deploy System:
+-------------------
 
 - Open command prompt and enter:``` git clone https://github.com/aazhbd/dev_sys.git ```
 
