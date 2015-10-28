@@ -2,7 +2,7 @@
 
 A developer system provisioned using vagrant with settings for virtualbox, deploys with ArtWeb.
 
-## Install Instructions
+# Install Instructions
 
 ### Install prerequisites:
 --------------------------
@@ -19,7 +19,8 @@ A developer system provisioned using vagrant with settings for virtualbox, deplo
 - Change directory into the newly created dev_sys folder and enter: ``` vagrant up ```
 
 - Once the system is up and finished provisioning itself, open web browser and set address to: ``` http://localhost:8080/ ```
-It should open the default page for ArtWeb framework for PHP5. You can work with the project in the dev_sys/data/ArtWeb folder.
+
+It should show the deails of the PHP5 installation and it contains a link on the top to the default page for ArtWeb framework for PHP5. You can work with the project in the dev_sys/data/ArtWeb folder.
 
 - Once the system is up, to work with the system itself: ``` vagrant ssh ```
 
