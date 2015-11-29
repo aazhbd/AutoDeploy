@@ -1,8 +1,8 @@
 # Developer's System
 
-A developer system provisioned using vagrant with settings for virtualbox, deploys with ArtWeb. A Linux system with Vivid Vervet and it automatically provisions the system with Apache2, PHP5, MySQL and MySQL related PHP packages, also includes Python and related tools.
+It automatically deploys a Ubuntu 15.04 (Vivid Vervet) with all necessary settings and software to develop Python and PHP projects.
 
-### Install Instructions
+It will automatically provision the system using vagrant with settings for virtualbox, deploys with ArtWeb. A Linux system with Vivid Vervet and it automatically provisions the system with Apache2, PHP5, MySQL and MySQL related PHP packages, also includes Python and related tools.
 
 #### Install prerequisites:
 ---------------------------
@@ -11,8 +11,8 @@ A developer system provisioned using vagrant with settings for virtualbox, deplo
 2. Install Git with commandline tools.
 3. Install Vagrant.
 
-#### Deploy System:
--------------------
+#### Install Instructions:
+--------------------------
 
 - Open command prompt and enter:``` git clone https://github.com/aazhbd/dev_sys.git ```
 
