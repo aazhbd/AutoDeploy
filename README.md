@@ -1,8 +1,6 @@
 # Developer's System
 
-It automatically deploys a Ubuntu 15.04 (Vivid Vervet) with all necessary settings and software to develop Python and PHP projects.
-
-It will automatically provision the system using vagrant with settings for virtualbox, deploys with ArtWeb. A Linux system with Vivid Vervet and it automatically provisions the system with Apache2, PHP5, MySQL and MySQL related PHP packages, also includes Python and related tools.
+It automatically deploys a Ubuntu 15.04 (Vivid Vervet) with all necessary settings and software to develop Python and PHP projects. It will provision the system using vagrant with settings for virtualbox, deploys with ArtWeb. A Linux system with Vivid Vervet and it automatically provisions the system with Apache2, PHP5, MySQL and MySQL related PHP packages, also includes Python and related tools.
 
 #### Install prerequisites:
 ---------------------------
