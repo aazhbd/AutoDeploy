@@ -6,6 +6,7 @@
 	<body>
 		<p>
 			<a href="/ArtWeb/webroot/">Click here to open ArtWeb</a>
+			<a href="/adminer.php">Click here to open Adminer</a>
 		</p>
 		<?php
 			echo phpinfo();
