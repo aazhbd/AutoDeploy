@@ -29,6 +29,7 @@ echo "---------------------------------------- Installing Language Platforms ---
 apt-get -q -y install php5 libapache2-mod-php5 php5-gd php5-{gd,mysqlnd,sqlite}
 apt-get -y install libapache2-mod-perl2
 apt-get -y install libapache2-mod-passenger ruby-rmagick
+curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 
 echo "---------------------------------------- Installing ArtWeb -----------------------------------"
 cd /var/www/html/
