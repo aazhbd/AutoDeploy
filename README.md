@@ -8,7 +8,7 @@ It deploys a Linux system with Vivid Vervet and automatically provisions the sys
 #### Install prerequisites:
 ---------------------------
 
-1. Install VirtualBox. It also works with VMWare, Hyper-V etc.
+1. Install VirtualBox. It can work with VMWare, Hyper-V etc. by changing settings.
 2. Install Git with commandline tools.
 3. Install Vagrant.
 
