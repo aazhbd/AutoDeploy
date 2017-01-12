@@ -5,7 +5,7 @@ It automatically deploys a Ubuntu 15.04 (Vivid Vervet) with all necessary settin
 It deploys a Linux system with Vivid Vervet and automatically provisions the system with Apache2, PHP5, MySQL and MySQL related PHP packages, Adminer for database admin, also includes Python and related tools.
 
 
-#### Install prerequisites:
+#### Install Prerequisites:
 ---------------------------
 
 1. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads). It can with VMWare, Hyper-V etc. by changing settings.
