@@ -17,7 +17,7 @@ It deploys a Linux system with Vivid Vervet and automatically provisions the sys
 
 - Open command prompt and enter:``` $ git clone https://github.com/aazhbd/AutoDeploy.git ```
 
-- Change directory into the newly created dev_sys folder and enter: ``` $ vagrant up ```
+- Change directory into the newly created folder and enter: ``` $ vagrant up ```
 
 - Once the system is up and finished provisioning itself, open web browser and set address to: ``` http://localhost:8080/Artweb/webroot/ ```
 
